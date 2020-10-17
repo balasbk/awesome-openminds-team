@@ -121,6 +121,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
 * [Leetcode](https://leetcode.com/): This is the best place to expand your coding knowledge and get prepared for your  interview.
 * [Codeforces](https://codeforces.com/): Programming competitions and contests, programming community
+* [Codechef](https://www.codechef.com/): Programming competitions and contests, programming community
+
 
 
 ### Learn Data Science
