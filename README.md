@@ -119,7 +119,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/): platform to learn Web Design, DSA, ML, etc.
 * [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
-* [Leetcode](https://leetcode.com/)This is the best place to expand your coding knowledge and get prepared for your  interview.
+* [Leetcode](https://leetcode.com/): This is the best place to expand your coding knowledge and get prepared for your  interview.
+* [Codeforces](https://codeforces.com/): Programming competitions and contests, programming community
+
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
